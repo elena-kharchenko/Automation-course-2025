@@ -6,3 +6,4 @@ fun main() {
     // to see how IntelliJ IDEA suggests fixing it.
     println("Hello, " + name + "!")
 }
+
